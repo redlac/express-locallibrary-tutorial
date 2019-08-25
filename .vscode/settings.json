@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.colorCustomizations" : {
+    "terminal.foreground" : "#dd6808",
+    "terminal.background" : "#0c0c0c"
+    }
+}
